@@ -9,7 +9,7 @@ function AddRedCube ()
 	
 	elem.classList.add("cube");
 	elem.classList.add("redcube");
-	elem.classList.contains(redcube)
+	//elem.classList.contains(redcube) 
 	
 	bigbox.appendChild(elem);
 }
